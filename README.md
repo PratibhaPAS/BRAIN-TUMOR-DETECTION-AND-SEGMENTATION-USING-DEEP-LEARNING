@@ -14,6 +14,7 @@ The five files present in the code contain different set of models and respectiv
 Models used:
 
 ResNet50 - Brain Tumor Detection
+
 ResUNet - Brain Tumor Segmentation
 
 
